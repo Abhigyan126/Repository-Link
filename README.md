@@ -3,6 +3,8 @@
 ## Overview
 
 This Python script fetches GitHub repositories and generates a Mermaid graph visualization.
+## Sample 
+<img width="752" alt="Screenshot 2025-01-23 at 12 47 04 PM" src="https://github.com/user-attachments/assets/298674fd-6e7c-415e-9bc8-f6dac15429a3" />
 
 ## Prerequisites
 
